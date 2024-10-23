@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ckfpasxlx2eq0"
-path="res://.godot/imported/GreedyGauntlet-Transparent.png-d560000c81b8e0e5ff78974ec992ca1c.ctex"
+uid="uid://cagdsb61u1om6"
+path="res://.godot/imported/GreedyGauntlet-Transparent.png-04406b3b92f12463df66991ab513b0d4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://GreedyGauntlet-Transparent.png"
-dest_files=["res://.godot/imported/GreedyGauntlet-Transparent.png-d560000c81b8e0e5ff78974ec992ca1c.ctex"]
+source_file="res://assets/GreedyGauntlet-Transparent.png"
+dest_files=["res://.godot/imported/GreedyGauntlet-Transparent.png-04406b3b92f12463df66991ab513b0d4.ctex"]
 
 [params]
 
