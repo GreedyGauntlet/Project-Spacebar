@@ -199,11 +199,11 @@ script = ExtResource("1_3hxp7")
 metadata/_edit_group_ = true
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-position = Vector2(-13.5, 13.5)
+position = Vector2(-13.5055, 13.5055)
 scale = Vector2(0.15625, 0.15625)
 sprite_frames = SubResource("SpriteFrames_ybtr6")
 animation = &"walk_right"
-frame_progress = 0.349834
+frame_progress = 0.662638
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 position = Vector2(-13.5386, 13.5386)
